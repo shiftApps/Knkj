@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shift.Knkj-TimeRecorder</string>
+				<string>com.shift.Knkj-TimeRecorder_a</string>
 				<key>bundle-version</key>
 				<string>0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>勤革時_v2.9.x</string>
+				<string>勤革時_v2.9</string>
 			</dict>
 		</dict>
 	</array>
